@@ -1,0 +1,46 @@
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.f.resources
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.f.resources
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\Regson\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\15Puzzle.vbproj.GenerateResource.Cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\15Puzzle.vbprojAssemblyReference.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\WindowsApplication3.f.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\15Puzzle.vbproj.GenerateResource.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\15Puzzle.vbproj.CoreCompileInputs.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\15Puzzle.vbproj.CopyComplete
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos Antigos\Visual Studio 2010 Projetos\15PuzzleVB\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\15Puzzle.vbprojAssemblyReference.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\WindowsApplication3.f.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\15Puzzle.vbproj.GenerateResource.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\15Puzzle.vbproj.CoreCompileInputs.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\15Puzzle.vbproj.CopyComplete
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\tictackode---15Puzzle-Style-Game\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
